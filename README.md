@@ -11,7 +11,7 @@ A fun Hacktoberfest 2022 project implementing some of the most obscure sorting a
 
 ### Stalin sort
 
-### The internet sort
+### The Internet sort
 
 ### Slow sort
 
